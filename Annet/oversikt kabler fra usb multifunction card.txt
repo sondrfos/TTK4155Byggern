@@ -1,0 +1,8 @@
+grå side mot lufta opp og nede
+høyre-venstre-joystick
+opp ned joystick
+push down joystick
+left slider
+right slider
+left button
+right button
